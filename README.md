@@ -5,7 +5,7 @@
 - De-structuring objects for easier access.
 - Fixing minor merge conflicts.
 - Resolved major comments.
-Working on improper user input error handling.
+- Working on improper user input error handling.
 Revised background image.
 Fixing div alignment issue.
 Resolving merge conflicts due to hard reset in git.
