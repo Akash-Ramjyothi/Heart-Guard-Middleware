@@ -8,7 +8,7 @@
 - Working on improper user input error handling.
 - Revised background image.
 - Fixing div alignment issue.
-Resolving merge conflicts due to hard reset in git.
+- Resolving merge conflicts due to hard reset in git.
 Working on merging leaderboard scores.
 Breaking down player scores and moves.
 Grouping move co-ordinates.
