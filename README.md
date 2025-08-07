@@ -12,7 +12,7 @@
 - Working on merging leaderboard scores.
 - Breaking down player scores and moves.
 - Grouping move co-ordinates.
-Processing individual moves.
+- Processing individual moves.
 Fixing results page.
 Changing name input button UI.
 Creating scoring hierarchy logic.
