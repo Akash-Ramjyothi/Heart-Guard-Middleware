@@ -13,7 +13,7 @@
 - Breaking down player scores and moves.
 - Grouping move co-ordinates.
 - Processing individual moves.
-Fixing results page.
+- Fixing results page.
 Changing name input button UI.
 Creating scoring hierarchy logic.
 Fixing item creation error.
