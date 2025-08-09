@@ -14,7 +14,7 @@
 - Grouping move co-ordinates.
 - Processing individual moves.
 - Fixing results page.
-Changing name input button UI.
+- Changing name input button UI.
 Creating scoring hierarchy logic.
 Fixing item creation error.
 Deploying on netlify.
