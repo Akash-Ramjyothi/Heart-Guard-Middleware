@@ -23,7 +23,7 @@
 - Fixing bugs.
 - Developing scoring validation functionality
 - Creating new endppints.
-Iterating player moves asynchronously.
+- Iterating player moves asynchronously.
 Debugging scoring bug.
 Revising parameters to be passed.
 Optimizing parallel processing.
