@@ -4,7 +4,7 @@
 - Improved modal pop-up screen.
 - De-structuring objects for easier access.
 - Fixing minor merge conflicts.
-Resolved major comments.
+- Resolved major comments.
 Working on improper user input error handling.
 Revised background image.
 Fixing div alignment issue.
